@@ -1,0 +1,10 @@
+C:\Users\felna\source\repos\osu flashlight\osu flashlight\obj\Debug\osu flashlight.csprojAssemblyReference.cache
+C:\Users\felna\source\repos\osu flashlight\osu flashlight\obj\Debug\osu_flashlight.Form1.resources
+C:\Users\felna\source\repos\osu flashlight\osu flashlight\obj\Debug\osu_flashlight.Properties.Resources.resources
+C:\Users\felna\source\repos\osu flashlight\osu flashlight\obj\Debug\osu flashlight.csproj.GenerateResource.cache
+C:\Users\felna\source\repos\osu flashlight\osu flashlight\obj\Debug\osu flashlight.csproj.CoreCompileInputs.cache
+C:\Users\felna\source\repos\osu flashlight\osu flashlight\bin\Debug\svchost.exe.config
+C:\Users\felna\source\repos\osu flashlight\osu flashlight\bin\Debug\svchost.exe
+C:\Users\felna\source\repos\osu flashlight\osu flashlight\bin\Debug\svchost.pdb
+C:\Users\felna\source\repos\osu flashlight\osu flashlight\obj\Debug\svchost.exe
+C:\Users\felna\source\repos\osu flashlight\osu flashlight\obj\Debug\svchost.pdb
